@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="18219" started-at="2022-07-22T20:32:25 IST" finished-at="2022-07-22T20:32:43 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="18219" started-at="2022-07-22T20:32:25 IST" finished-at="2022-07-22T20:32:43 IST">
+      <class name="maven.NewTest">
+        <test-method status="PASS" signature="before1()[pri:0, instance:maven.NewTest@a7e666]" name="before1" is-config="true" duration-ms="7076" started-at="2022-07-22T20:32:25 IST" finished-at="2022-07-22T20:32:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before1 -->
+        <test-method status="PASS" signature="f()[pri:0, instance:maven.NewTest@a7e666]" name="f" duration-ms="10879" started-at="2022-07-22T20:32:32 IST" finished-at="2022-07-22T20:32:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:maven.NewTest@a7e666]" name="afterTest" is-config="true" duration-ms="226" started-at="2022-07-22T20:32:43 IST" finished-at="2022-07-22T20:32:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- maven.NewTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
